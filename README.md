@@ -1,5 +1,7 @@
 # Price Prophet
 
+![Image](https://github.com/user-attachments/assets/2c8c50e1-1ccf-4ac6-8621-c903b48f9d9b)
+
 This project studies the Ames housing dataset which focuses on houses based in Ames, Iowa. The dataset has 81 features and 1460 rows of houses. The goal is to predict the sales prices of the houses by using different models: Gradient Boosting Regressor, Random Forest, and XGBoost. After using each model separetely, Random Search or Grid Search is used to tune the hyperparameters and then with this information, each model is used again to see how much they improved.
 
 1. Exploratory Data Analysis
