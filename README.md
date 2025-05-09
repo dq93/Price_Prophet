@@ -25,3 +25,5 @@ After working on the train file, the test file was then used to see each model's
 The model I chose as the best was of course, XGBoost after Grid Search, which improved it from a Root Mean Squared Error (RMSE) of 26300.42 to 25152.99 after log-reverse. Given more time, I would also do both Random Search and Grid Search on each model to see the difference, as Grid Search was taking far too long to run on the Gradient Boost model. I might also define a function for getting rid of nulls and one-hot encoding in the cleaning file instead of doing it each time for the models. I would also see what other features I can drop or not drop.
 
 [Data features description text file](https://github.com/dq93/Price_Prophet/blob/main/data_description.txt)
+
+![Image](https://github.com/user-attachments/assets/69cc11d6-7f1e-4f6d-ab97-da577cd346ca)
